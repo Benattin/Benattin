@@ -21,7 +21,6 @@
 ### 𝑺𝒐𝒃𝒓𝒆 𝒎𝒊𝒎
 
 | | |
-|---|---|
 | 📍 **Localização** | São Paulo, SP |
 | 🎓 **Formação** | Técnico em Desenvolvimento de Sistemas |
 | 📚 **Graduação** | Sistemas de Informação - FIAP |
