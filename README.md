@@ -25,7 +25,6 @@
 | 📍 **Localização** | São Paulo, SP |
 | 🎓 **Formação** | Técnico em Desenvolvimento de Sistemas |
 | 📚 **Graduação** | Sistemas de Informação - FIAP |
-| 🌱 **Atualmente** | Aprofundando em Java |
 | 🎯 **Objetivo** | Atuar como desenvolvedor |
 
 ---
