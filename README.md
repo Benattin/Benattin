@@ -1,5 +1,5 @@
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend&weight=6000&size=36&duration=3000&pause=100000&color=fff&center=true&vCenter=true&width=1000&lines=🧑🏻‍💻𝑮𝒖𝒔𝒕𝒂𝒗𝒐+𝑩𝒆𝒏𝒂𝒕𝒕𝒊 )
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend&weight=6000&size=40&duration=3000&pause=100000&color=fff&center=true&vCenter=true&width=1000&lines=𝑮𝒖𝒔𝒕𝒂𝒗𝒐+𝑩𝒆𝒏𝒂𝒕𝒕𝒊 )
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend&size=25&duration=3000&pause=1000&color=fff&center=true&vCenter=true&width=1000&lines=𝑫𝒆𝒔𝒆𝒏𝒗𝒐𝒍𝒗𝒆𝒅𝒐𝒓+𝑾𝒆𝒃;𝑻𝒆́𝒄𝒏𝒊𝒄𝒐+𝒆𝒎+𝑫𝒆𝒔𝒆𝒏𝒗𝒐𝒍𝒗𝒊𝒎𝒆𝒏𝒕𝒐+𝒅𝒆+𝑺𝒊𝒔𝒕𝒆𝒎𝒂𝒔;𝑺𝒊𝒔𝒕𝒆𝒎𝒂𝒔+𝒅𝒆+𝑰𝒏𝒇𝒐𝒓𝒎𝒂𝒄̧𝒂̃𝒐+-+𝑭𝑰𝑨𝑷.)
 
