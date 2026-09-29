@@ -1,17 +1,24 @@
 <img src="banner.png" alt="Gustavo Benatti — Desenvolvedor Web" width="100%" />
 
-[Portfólio](https://benattin.github.io/) · [LinkedIn](https://www.linkedin.com/in/gustabenatti) · [E-mail](mailto:gustavobenatti2008@gmail.com)
+<p align="center">
+  <a href="https://benattin.github.io/"><img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-8b5cf6?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/gustabenatti"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-6366f1?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  &nbsp;
+  <a href="mailto:gustavobenatti2008@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+<div align="center">
 
 ## Perfil
 
-Desenvolvedor web em São Paulo. A interface é HTML, CSS e JavaScript. O site é gerado em Node a partir de JSON. Os assistentes de IA rodam na máquina, com modelo local via Ollama, sem API externa.
+Interface em HTML, CSS e JavaScript. O site é gerado em Node a partir de JSON. A IA roda no PC, com Ollama, sem API externa.
 
-| | |
-| --- | --- |
-| Formação | Técnico em Desenvolvimento de Sistemas — Etec Sebrae (2022–2025) |
-| Graduação | Sistemas de Informação — FIAP (2026–2029) |
-| Base | HTML, CSS, JavaScript, Node.js, Python |
-| Status | Disponível para estágio |
+| Formação | Graduação | Base |
+| --- | --- | --- |
+| Técnico em Desenvolvimento de Sistemas · Etec Sebrae | Sistemas de Informação · FIAP · 2026–2029 | HTML, CSS, JavaScript, Node.js, Python |
+
+**Disponível para estágio** · São Paulo
 
 ## Stack
 
@@ -31,8 +38,10 @@ Desenvolvedor web em São Paulo. A interface é HTML, CSS e JavaScript. O site �
 | [Movement](https://benattin.github.io/catalogo-movement/) | Catálogo de atacado: busca, filtro, ficha, carrinho e pedido. [Código](https://github.com/Benattin/catalogo-movement) | JavaScript, HTML, CSS, Node.js |
 | [NexusTech](https://github.com/Benattin/nexustech-site) | Landing no visual do design system da Stripe | HTML, CSS, JavaScript |
 
-Em desenvolvimento: **Fenix** (Node.js, Ollama, Web Speech) e **AURA** (Python, FastAPI, Whisper, Piper). As duas ficam no PC, com memória local. A AURA só executa ação sensível depois de confirmação.
+**Fenix** (Node.js, Ollama, Web Speech) e **AURA** (Python, FastAPI, Whisper, Piper), em desenvolvimento no PC.
 
 ## Atividade
 
-<img src="https://streak-stats.demolab.com/?user=Benattin&hide_border=true&background=0D1117&stroke=8B5CF6&ring=6366F1&fire=8B5CF6&currStreakLabel=C4B5FD&sideNums=C4B5FD&currStreakNum=E6EDF3&sideLabels=8B949E&dates=8B949E" alt="Contribution streak" />
+<img src="https://streak-stats.demolab.com/?user=Benattin&hide_border=true&background=0D1117&stroke=8B5CF6&ring=6366F1&fire=8B5CF6&currStreakLabel=C4B5FD&sideNums=C4B5FD&currStreakNum=E6EDF3&sideLabels=8B949E&dates=8B949E" alt="Sequência de contribuições" />
+
+</div>
