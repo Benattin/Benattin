@@ -22,6 +22,8 @@ A interface é HTML, CSS e JavaScript. O site é estático: os dados ficam em JS
 
 ## Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python&perline=5" alt="HTML, CSS, JavaScript, Node.js, Python" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,threejs,nodejs,python,git,github,vscode&perline=6" alt="HTML, CSS, JavaScript, TypeScript, React, Vite, Three.js, Node.js, Python, Git, GitHub, VS Code" />
+
+IA local com Ollama
 
 </div>
