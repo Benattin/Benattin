@@ -1,4 +1,4 @@
-<img src="banner.svg" alt="Gustavo Benatti — Desenvolvedor Web" width="100%" />
+<img src="banner.png" alt="Gustavo Benatti — Desenvolvedor Web" width="100%" />
 
 [Portfólio](https://benattin.github.io/) · [LinkedIn](https://www.linkedin.com/in/gustabenatti) · [E-mail](mailto:gustavobenatti2008@gmail.com)
 
