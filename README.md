@@ -16,22 +16,12 @@ A interface é HTML, CSS e JavaScript. O site é estático: os dados ficam em JS
 
 | Formação | Graduação | Base |
 | --- | --- | --- |
-| Técnico em Desenvolvimento de Sistemas · Etec Sebrae (2022–2025) | Sistemas de Informação · FIAP (2026–2029) | HTML, CSS e JavaScript na interface. Node.js gera o site. Python nos assistentes de IA. |
+| Técnico em Desenvolvimento de Sistemas · Etec Sebrae (2022–2025) | Sistemas de Informação · FIAP (2026–2029) | HTML, CSS, JavaScript, Node.js, Python |
 
 **Disponível para estágio** · São Paulo
 
 ## Stack
 
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python&perline=5" alt="HTML, CSS, JavaScript, Node.js, Python" />
-
-| Camada | Onde entra |
-| --- | --- |
-| Interface | HTML, CSS e JavaScript no cliente, com layout responsivo |
-| Site | Node.js lê o JSON de conteúdo e gera as páginas estáticas |
-| IA local | Python para agente, voz e automação no Windows, com Ollama |
-
-## Atividade
-
-<img src="https://streak-stats.demolab.com/?user=Benattin&hide_border=true&background=0D1117&stroke=8B5CF6&ring=6366F1&fire=8B5CF6&currStreakLabel=C4B5FD&sideNums=C4B5FD&currStreakNum=E6EDF3&sideLabels=8B949E&dates=8B949E" alt="Sequência de contribuições" />
 
 </div>
