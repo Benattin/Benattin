@@ -1,4 +1,4 @@
-<img src="capa.png" alt="Gustavo Benatti — Desenvolvedor Web" width="100%" />
+<img src="hero.png" alt="Gustavo Benatti — Desenvolvedor Web" width="100%" />
 
 <p align="center">
   <a href="https://benattin.github.io/"><img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-8b5cf6?style=for-the-badge&logo=githubpages&logoColor=white"></a>
