@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Gustavo Benatti — Desenvolvedor Web" width="100%" />
+<img src="capa.png" alt="Gustavo Benatti — Desenvolvedor Web" width="100%" />
 
 <p align="center">
   <a href="https://benattin.github.io/"><img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-8b5cf6?style=for-the-badge&logo=githubpages&logoColor=white"></a>
@@ -12,11 +12,11 @@
 
 ## Perfil
 
-Interface em HTML, CSS e JavaScript. O site é gerado em Node a partir de JSON. A IA roda no PC, com Ollama, sem API externa.
+A interface é HTML, CSS e JavaScript. O site é estático: os dados ficam em JSON, o Node gera as páginas e o GitHub Pages publica. A IA roda no PC, com modelo local no Ollama.
 
 | Formação | Graduação | Base |
 | --- | --- | --- |
-| Técnico em Desenvolvimento de Sistemas · Etec Sebrae | Sistemas de Informação · FIAP · 2026–2029 | HTML, CSS, JavaScript, Node.js, Python |
+| Técnico em Desenvolvimento de Sistemas · Etec Sebrae (2022–2025) | Sistemas de Informação · FIAP (2026–2029) | HTML, CSS e JavaScript na interface. Node.js gera o site. Python nos assistentes de IA. |
 
 **Disponível para estágio** · São Paulo
 
@@ -26,19 +26,9 @@ Interface em HTML, CSS e JavaScript. O site é gerado em Node a partir de JSON. 
 
 | Camada | Onde entra |
 | --- | --- |
-| Interface | HTML, CSS e JavaScript no cliente |
-| Build | Node.js gera as páginas a partir de JSON |
-| IA local | Python para agente, voz e automação no Windows |
-
-## Projetos
-
-| Projeto | O que entrega | Stack |
-| --- | --- | --- |
-| [Portfólio](https://benattin.github.io/) | Cena 3D, seções em tela cheia, PT/EN. [Código](https://github.com/Benattin/benattin.github.io) | JavaScript, Three.js, Vite |
-| [Movement](https://benattin.github.io/catalogo-movement/) | Catálogo de atacado: busca, filtro, ficha, carrinho e pedido. [Código](https://github.com/Benattin/catalogo-movement) | JavaScript, HTML, CSS, Node.js |
-| [NexusTech](https://github.com/Benattin/nexustech-site) | Landing no visual do design system da Stripe | HTML, CSS, JavaScript |
-
-**Fenix** (Node.js, Ollama, Web Speech) e **AURA** (Python, FastAPI, Whisper, Piper), em desenvolvimento no PC.
+| Interface | HTML, CSS e JavaScript no cliente, com layout responsivo |
+| Site | Node.js lê o JSON de conteúdo e gera as páginas estáticas |
+| IA local | Python para agente, voz e automação no Windows, com Ollama |
 
 ## Atividade
 
