@@ -12,11 +12,14 @@
 
 ## Perfil
 
-A interface é HTML, CSS e JavaScript. O site é estático: os dados ficam em JSON, o Node gera as páginas e o GitHub Pages publica. A IA roda no PC, com modelo local no Ollama.
+Desenvolvedor web em São Paulo. Técnico em Desenvolvimento de Sistemas pela Etec Sebrae e graduando em Sistemas de Informação na FIAP. Entrego interfaces e sites no GitHub Pages, e assistentes de IA que rodam na máquina, com modelo local.
 
-| Formação | Graduação | Base |
-| --- | --- | --- |
-| Técnico em Desenvolvimento de Sistemas · Etec Sebrae (2022–2025) | Sistemas de Informação · FIAP (2026–2029) | HTML, CSS, JavaScript, Node.js, Python |
+| | |
+| --- | --- |
+| Formação | Técnico em Desenvolvimento de Sistemas — Etec Sebrae (2022–2025) |
+| Graduação | Bacharelado em Sistemas de Informação — FIAP (2026–2029) |
+| Idiomas | Português fluente · Inglês intermediário · Espanhol básico |
+| Complemento | Imersão em IA (Daxus) · Jornada Python · Endpoint Security (Cisco) |
 
 **Disponível para estágio** · São Paulo
 
